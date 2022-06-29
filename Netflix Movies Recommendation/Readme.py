@@ -1,5 +1,5 @@
 ATTENTION!!!!
-__If the github .ipynb file does not work then go to this links given bellow__
+__If the both above given github .ipynb file does not work then go to these links given bellow__
 
 1.	Netfix Movies Recomendations
 https://colab.research.google.com/drive/1KnYgDfjFvMuilcVgVxvSqna0m4aCFfqc?usp=sharing 
