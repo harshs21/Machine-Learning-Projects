@@ -319,10 +319,6 @@ model_densenet_efnet_vgg_nohead.summary()
 
 In this setup the final results are marginally better than any of the three models (there is still a room for enhancement)
 
-
-## Code
-The full code can be found on [Kaggle](https://www.kaggle.com/ibrahimsobh/chest-x-ray-covid19-efnet-densenet-vgg-grad-cam/)
-
 # 7) Next Steps:
 - Use more versions of DenseNet EfficientNet 
 - Use other nets such as MobileNet
